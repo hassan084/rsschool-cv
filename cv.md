@@ -20,6 +20,7 @@ Now I want to get a job.
 - HTML5, CSS3
 - Java Core, Spring Framework
 - JavaScript Basics
+- SQL
 - Git
 - VS Code, Intellij IDEA
 
